@@ -1,0 +1,102 @@
+[
+    {
+        "username": "ductrung",
+        "email": "ductrung@gmail.com",
+        "password": "123456"
+    },
+    {
+        "username": "hoangnam",
+        "email": "hoangnam@gmail.com",
+        "password": "654321"
+    },
+    {
+        "username": "minhthu",
+        "email": "minhthu@gmail.com",
+        "password": "thu123"
+    },
+    {
+        "username": "anhkhoa",
+        "email": "anhkhoa@gmail.com",
+        "password": "khoa456"
+    },
+    {
+        "username": "ngocanh",
+        "email": "ngocanh@gmail.com",
+        "password": "ngocanh789"
+    },
+    {
+        "username": "thanhha",
+        "email": "thanhha@gmail.com",
+        "password": "ha321"
+    },
+    {
+        "username": "truongan",
+        "email": "truongan@gmail.com",
+        "password": "an987"
+    },
+    {
+        "username": "kimyen",
+        "email": "kimyen@gmail.com",
+        "password": "yen456"
+    },
+    {
+        "username": "nhutminh",
+        "email": "nhutminh@gmail.com",
+        "password": "minh654"
+    },
+    {
+        "username": "lanhuong",
+        "email": "lanhuong@gmail.com",
+        "password": "huong111"
+    },
+    {
+        "username": "thienbao",
+        "email": "thienbao@gmail.com",
+        "password": "bao000"
+    },
+    {
+        "username": "baoloc",
+        "email": "baoloc@gmail.com",
+        "password": "loc2024"
+    },
+    {
+        "username": "myhanh",
+        "email": "myhanh@gmail.com",
+        "password": "hanh2024"
+    },
+    {
+        "username": "tienthanh",
+        "email": "tienthanh@gmail.com",
+        "password": "123abc"
+    },
+    {
+        "username": "thuhang",
+        "email": "thuhang@gmail.com",
+        "password": "hang321"
+    },
+    {
+        "username": "lehoang",
+        "email": "lehoang@gmail.com",
+        "password": "le123"
+    },
+    {
+        "username": "tramy",
+        "email": "tramy@gmail.com",
+        "password": "my456"
+    },
+    {
+        "username": "hoanglong",
+        "email": "hoanglong@gmail.com",
+        "password": "long789"
+    },
+    {
+        "username": "khanhlinh",
+        "email": "khanhlinh@gmail.com",
+        "password": "linh1010"
+    },
+    {
+        "username": "vutuan",
+        "email": "vutuan@gmail.com",
+        "password": "tuan999"
+    }
+]
