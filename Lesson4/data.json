@@ -1,0 +1,146 @@
+[
+    {
+        "id": 99999999,
+        "name": "Duc Trung hihi",
+        "dob": "07/08/1998",
+        "region": "Vietnam",
+        "club": "MindX",
+        "rating": 5,
+        "worth": 9999999.0
+    },
+    {
+        "id": 2,
+        "name": "Lionel Messi",
+        "dob": "24/06/1987",
+        "region": "Argentina",
+        "club": "Paris Saint-Germain",
+        "rating": 9.8,
+        "worth": 50000000.0
+    },
+    {
+        "id": 3,
+        "name": "Neymar Jr.",
+        "dob": "05/02/1992",
+        "region": "Brazil",
+        "club": "Al Hilal",
+        "rating": 9.3,
+        "worth": 35000000.0
+    },
+    {
+        "id": 4,
+        "name": "Kylian Mbapp\u00e9",
+        "dob": "20/12/1998",
+        "region": "France",
+        "club": "Paris Saint-Germain",
+        "rating": 9.6,
+        "worth": 150000000.0
+    },
+    {
+        "id": 5,
+        "name": "Robert Lewandowski",
+        "dob": "21/08/1988",
+        "region": "Poland",
+        "club": "Barcelona",
+        "rating": 9.4,
+        "worth": 60000000.0
+    },
+    {
+        "id": 6,
+        "name": "Mohamed Salah",
+        "dob": "15/06/1992",
+        "region": "Egypt",
+        "club": "Liverpool",
+        "rating": 9.1,
+        "worth": 80000000.0
+    },
+    {
+        "id": 7,
+        "name": "Kevin De Bruyne",
+        "dob": "28/06/1991",
+        "region": "Belgium",
+        "club": "Manchester City",
+        "rating": 9.5,
+        "worth": 100000000.0
+    },
+    {
+        "id": 8,
+        "name": "Erling Haaland",
+        "dob": "21/07/2000",
+        "region": "Norway",
+        "club": "Manchester City",
+        "rating": 9.7,
+        "worth": 120000000.0
+    },
+    {
+        "id": 9,
+        "name": "Luka Modri\u0107",
+        "dob": "09/09/1985",
+        "region": "Croatia",
+        "club": "Real Madrid",
+        "rating": 9.0,
+        "worth": 15000000.0
+    },
+    {
+        "id": 10,
+        "name": "Sergio Ramos",
+        "dob": "30/03/1986",
+        "region": "Spain",
+        "club": "Al-Ittihad",
+        "rating": 8.8,
+        "worth": 25000000.0
+    },
+    {
+        "id": 11,
+        "name": "Karim Benzema",
+        "dob": "19/12/1987",
+        "region": "France",
+        "club": "Al-Ittihad",
+        "rating": 9.0,
+        "worth": 30000000.0
+    },
+    {
+        "id": 12,
+        "name": "Gerard Piqu\u00e9",
+        "dob": "02/02/1987",
+        "region": "Spain",
+        "club": "Retired",
+        "rating": 8.5,
+        "worth": 50000000.0
+    },
+    {
+        "id": 13,
+        "name": "Vin\u00edcius J\u00fanior",
+        "dob": "12/07/2000",
+        "region": "Brazil",
+        "club": "Real Madrid",
+        "rating": 9.2,
+        "worth": 90000000.0
+    },
+    {
+        "id": 14,
+        "name": "Jude Bellingham",
+        "dob": "29/06/2003",
+        "region": "England",
+        "club": "Real Madrid",
+        "rating": 9.3,
+        "worth": 120000000.0
+    },
+    {
+        "id": 15,
+        "name": "Son Heung-min",
+        "dob": "08/07/1992",
+        "region": "South Korea",
+        "club": "Tottenham Hotspur",
+        "rating": 9.0,
+        "worth": 70000000.0
+    },
+    {
+        "id": 16,
+        "name": "Duc Trung",
+        "dob": "07/08/1998",
+        "region": "Vietnam",
+        "club": "MindX",
+        "rating": 5.0,
+        "worth": 9999999.0
+    }
+]
