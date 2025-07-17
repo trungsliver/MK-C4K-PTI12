@@ -1,0 +1,16 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "gender": "Male",
+        "dob": "1998-08-07",
+        "password": "123456"
+    },
+    {
+        "username": "trung",
+        "email": "trung@gmail.com",
+        "gender": "Male",
+        "dob": "1998-01-01",
+        "password": "123456"
+    }
+]
